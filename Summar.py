@@ -7,7 +7,7 @@ import heapq
 
 arg = len(sys.argv)
 	
-if arg =2 :
+if arg == 3 :
 
 	link = sys.argv[1]
 	n = int(sys.argv[2])
